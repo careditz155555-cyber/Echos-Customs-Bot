@@ -1,0 +1,34 @@
+{
+  "sayAllowedRoles": [
+    "1508147838394175707",
+    "1508147838394175704",
+    "1508147838394175699"
+  ],
+
+  "designerRoleId": "1508147838314483802",
+
+  "hrRoleId": "1508147838394175704",
+
+  "freeReleaseRoleId": "1508147838394175707",
+
+  "freeReleaseUnlockedChannelId": "1508147839887216808",
+
+  "welcomeChannelId": "1508147840592122048",
+
+  "dashboardChannelLink": "https://discord.com/channels/1508147838104764717/1508147839887216802",
+
+  "logoEmoji": "<:Logo:1508279789956632716>",
+
+  "portfolioForumChannelId": "1508147840302579903",
+
+  "portfolioTags": {
+    "liveries": "1508442173627175013",
+    "discord": "1508442197639430284",
+    "graphics": "1508442222549401672",
+    "clothing": "1508442252765302784",
+    "els": "1508442277058449509",
+    "photography": "1508442301125628047"
+  },
+  "reviewChannelId": "1508147840302579907",
+  "giveawayChannelId": "1508147839887216807"
+}
